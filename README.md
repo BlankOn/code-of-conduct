@@ -1,8 +1,8 @@
-# code-of-conduct
+# Code of Conduct
 
-BlankOn creates software for a better world. We achieve this by behaving well towards each other.
+BlankOn wants to reach it's goal. We achieve this by behaving well towards each other.
 
-Therefore this document suggests what we consider ideal behaviour, so you know what to expect when getting involved in GNOME. This is who we are and what we want to be. There is no official enforcement of these principles, and this should not be interpreted like a legal document.
+Therefore this document suggests what we consider ideal behaviour, so you know what to expect when getting involved in BlankOn. This is who we are and what we want to be. There is no official enforcement of these principles, and this should not be interpreted like a legal document.
 
 ## Advice :
 
@@ -23,11 +23,12 @@ If something seems outrageous, check that you did not misinterpret it. Ask for c
 
 Avoid repeating what has been said already. Making a conversation larger makes it difficult to follow, and people often feel personally attacked if they receive multiple messages telling them the same thing.
 
-This code of conduct derived from https://wiki.gnome.org/action/show/Foundation/CodeOfConduct?action=show&redirect=CodeOfConduct
-
 ## Applies to :
 
 - Mailing list
 - Facebook group
 - Telegram group
 - Events
+
+
+This code of conduct derived from https://wiki.gnome.org/action/show/Foundation/CodeOfConduct?action=show&redirect=CodeOfConduct
