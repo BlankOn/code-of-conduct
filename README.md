@@ -24,3 +24,10 @@ If something seems outrageous, check that you did not misinterpret it. Ask for c
 Avoid repeating what has been said already. Making a conversation larger makes it difficult to follow, and people often feel personally attacked if they receive multiple messages telling them the same thing.
 
 This code of conduct derived from https://wiki.gnome.org/action/show/Foundation/CodeOfConduct?action=show&redirect=CodeOfConduct
+
+## Applies to :
+
+- Mailing list
+- Facebook group
+- Telegram group
+- Events
