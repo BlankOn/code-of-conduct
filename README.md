@@ -29,4 +29,4 @@ Mari kita hindari pengulangan apa yang sudah dikatakan. Percakapan besar sulit d
 - Grup Telegram
 - Kegiatan-kegiatan luring
 
-Kode etik ini disadur dari https://wiki.gnome.org/action/show/Foundation/CodeOfConduct?action=show&redirect=CodeOfConduct. Tata cara berkomunitas yang lebih detil (semisal tata cara berkomunikasi di milis, berbagi kutipan kode dan lainnya) sedang dalam proses penyusunan. Silakan mengirim *pull request* bila ingin memperbaiki dokumen ini.
+Kode etik ini disadur dari https://wiki.gnome.org/action/show/Foundation/CodeOfConduct. Tata cara berkomunitas yang lebih detil (semisal tata cara berkomunikasi di milis, berbagi kutipan kode dan lainnya) sedang dalam proses penyusunan. Silakan mengirim *pull request* bila ingin memperbaiki dokumen ini.
