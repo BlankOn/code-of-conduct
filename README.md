@@ -24,7 +24,7 @@ Mari kita hindari pengulangan apa yang sudah dikatakan. Percakapan besar sulit d
 
 ### Batasan
 
-Komunitas maupun acara yang diselenggarakan di dalamnya ini didedikasikan untuk memberikan pengalaman berbagi yang bebas dari tindakan pelecehan untuk semua orang, terlepas dari jenis kelamin, identitas dan ekspresi gender, usia, orientasi seksual, kecacatan, penampilan fisik, ukuran tubuh, ras, etnisitas, agama (atau kekurangannya), sudut pandang politik, atau pilihan teknologi. Kami tidak mentolerir pelecehan terhadap individu dalam bentuk apapun, bahasa seksual maupun gambar yang tidak sesuai untuk tempat penyelenggaraan manapun termasuk publikasi media sosial dan media online lainnya. Individu yang melanggar peraturan ini dapat dikenai sanksi atau diusir dari komunitas/acara tanpa pengembalian dana (jika ada) atas kebijaksanaan pengurus komunitas.
+Komunitas maupun acara yang diselenggarakan di dalamnya ini didedikasikan untuk memberikan pengalaman berbagi yang bebas dari tindakan pelecehan untuk semua orang, terlepas dari jenis kelamin, identitas dan ekspresi gender, usia, orientasi seksual, kecacatan, penampilan fisik, ukuran tubuh, ras, etnisitas, agama (atau kekurangannya), sudut pandang politik, atau pilihan teknologi. Kami tidak mentolerir pelecehan terhadap individu menyangkut hal-hal di atas dalam bentuk apapun baik di tempat penyelenggaraan komunitas/acara maupun publikasi media sosial dan media online lainnya. Individu yang melanggar peraturan ini dapat dikenai sanksi atau diusir dari komunitas/acara tanpa pengembalian dana (jika ada) atas kebijaksanaan pengurus komunitas.
 
 ## Kode etik ini berlaku pada:
 
