@@ -22,6 +22,10 @@ Ingatlah bahwa beberapa keputusan seringkali merupakan pilihan-pilihan yang suli
 
 Mari kita hindari pengulangan apa yang sudah dikatakan. Percakapan besar sulit dikendalikan. Orang kadang merasa diserang bila menerima banyak pesan yang intinya sama.
 
+### Batasan
+
+Komunitas maupun acara yang diselenggarakan di dalamnya ini didedikasikan untuk memberikan pengalaman berbagi yang bebas dari tindakan pelecehan untuk semua orang, terlepas dari jenis kelamin, identitas dan ekspresi gender, usia, orientasi seksual, kecacatan, penampilan fisik, ukuran tubuh, ras, etnisitas, agama (atau kekurangannya), sudut pandang politik, atau pilihan teknologi. Kami tidak mentolerir pelecehan terhadap individu menyangkut hal-hal di atas dalam bentuk apapun baik di tempat penyelenggaraan komunitas/acara maupun publikasi media sosial dan media online lainnya. Individu yang melanggar peraturan ini dapat dikenai sanksi atau diusir dari komunitas/acara tanpa pengembalian dana (jika ada) atas kebijaksanaan pengurus komunitas.
+
 ## Kode etik ini berlaku pada:
 
 - Milis
@@ -29,4 +33,4 @@ Mari kita hindari pengulangan apa yang sudah dikatakan. Percakapan besar sulit d
 - Grup Telegram
 - Kegiatan-kegiatan luring
 
-Kode etik ini disadur dari https://wiki.gnome.org/action/show/Foundation/CodeOfConduct. Tata cara berkomunitas yang lebih detail (semisal tata cara berkomunikasi di milis, berbagi kutipan kode, dan hal-hal lain) sedang dalam proses penyusunan. Silakan mengirim *pull request* bila ingin memperbaiki dokumen ini.
+Kode etik ini disadur dari https://wiki.gnome.org/action/show/Foundation/CodeOfConduct, http://2012.jsconf.us/#/about dan The Ada Initiative. Tata cara berkomunitas yang lebih detail (semisal tata cara berkomunikasi di milis, berbagi kutipan kode, dan hal-hal lain) sedang dalam proses penyusunan. Silakan mengirim *pull request* bila ingin memperbaiki dokumen ini.
